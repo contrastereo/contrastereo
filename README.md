@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @contrastereo
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning react.js and CSS
+- 💞️ I’m looking to collaborate on vanilla JS, React or CSS projects
+- 📫 You can reach me via DM or via linked in @ https://www.linkedin.com/in/luis-pirela-58908811b
